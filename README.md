@@ -1,4 +1,4 @@
-# Khoi Nguyen
+# Nguyen Khoi Nguyen or Bill Nguyen
 
 Information Systems Student | Aspiring Software Engineer
 Focus: Backend Development, Data Systems, Applied AI
