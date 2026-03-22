@@ -67,14 +67,6 @@ A structured collection of academic materials for efficient learning and referen
 
 ---
 
-## Development Goals
-
-* Strengthen backend engineering skills
-* Deepen understanding of system design
-* Apply AI in practical, production-oriented scenarios
-
----
-
 ## Contact
 
 Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com)
