@@ -19,11 +19,17 @@ I am currently developing projects that apply programming to real-world use case
 
 ## Technical Skills
 
-**Languages**
-Java, Python, JavaScript, SQL, C++
+### Languages
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Technologies & Tools**
-Git, REST APIs, Telegram Bot API, Relational Databases
+### Technologies & Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=white)
+![Database](https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Core Concepts**
 Data Structures, Algorithms, System Design Fundamentals, Data Analysis
