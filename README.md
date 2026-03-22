@@ -20,7 +20,7 @@ I am currently developing projects that apply programming to real-world use case
 ## Technical Skills
 
 **Languages**
-Java, Python, JavaScript, SQL
+Java, Python, JavaScript, SQL, C++
 
 **Technologies & Tools**
 Git, REST APIs, Telegram Bot API, Relational Databases
