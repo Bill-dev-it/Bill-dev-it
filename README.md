@@ -1,4 +1,4 @@
-# Nguyen Khoi Nguyen or Bill Nguyen
+# Nguyen Khoi Nguyen 
 
 Information Systems Student | Aspiring Software Engineer
 Focus: Backend Development, Data Systems, Applied AI
@@ -7,7 +7,7 @@ Focus: Backend Development, Data Systems, Applied AI
 
 ## Profile
 
-I am an Information Systems student at UIT with a strong interest in building reliable backend systems and data-driven applications. My work focuses on practical implementations, including API development, system integration, and analytical tools.
+Hi, my name is Khoi Nguyen or you can call me Bill Nguyen. I am an Information Systems student at UIT with a strong interest in building reliable backend systems and data-driven applications. My work focuses on practical implementations, including API development, system integration, and analytical tools.
 
 I am currently developing projects that apply programming to real-world use cases, particularly in financial data analysis and automation.
 
