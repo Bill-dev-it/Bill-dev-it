@@ -26,38 +26,6 @@ Data Structures, Algorithms, System Design Fundamentals, Data Analysis
 
 ---
 
-## Selected Projects
-
-### Telegram Crypto Analysis Chatbot
-
-A Telegram bot that enables users to analyze cryptocurrency data through an interactive interface.
-
-* Designed and implemented using Python
-* Integrated external data sources for real-time analysis
-* Built user interaction flows for command-based queries
-* Focus: backend logic, API integration, and usability
-
----
-
-### Tic Tac Toe Web Application
-
-A browser-based game focused on clean logic implementation and responsive UI behavior.
-
-* Developed using JavaScript
-* Implemented game state management and win-condition logic
-* Emphasis on simplicity and correctness
-
----
-
-### Study Resources Platform
-
-A structured collection of academic materials for efficient learning and reference.
-
-* Built using HTML
-* Organized content for accessibility and reuse
-
----
-
 ## Experience Focus
 
 * Building backend systems that handle real-world data
@@ -69,5 +37,5 @@ A structured collection of academic materials for efficient learning and referen
 
 ## Contact
 
-Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com)
+Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or [24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
 Open to internships and collaborative projects
