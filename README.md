@@ -32,7 +32,7 @@ I am currently developing projects that apply programming to real-world use case
 ![Database](https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Core Concepts**
-Data Structures, Algorithms, System Design Fundamentals, Data Analysis
+Data Structures, Algorithms, System Design Fundamentals, Data Analysis.
 
 ---
 
