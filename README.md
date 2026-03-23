@@ -47,7 +47,7 @@ Data Structures, Algorithms, System Design Fundamentals, Data Analysis
 
 ## Contact
 
-Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com)
+Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or
 [24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
 
 Open to internship opportunities and collaborative projects
