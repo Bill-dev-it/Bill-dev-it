@@ -7,7 +7,7 @@ Focus: Backend Development, Data Systems, Applied AI
 
 ## Profile
 
-Hi, my name is Khoi Nguyen (Bill Nguyen). I am currently studying Information Systems at the University of Information Technology (UIT).
+👋 Hi, my name is Khoi Nguyen (Bill Nguyen). I am currently studying Information Systems at the University of Information Technology (UIT).
 
 I was admitted as the **top-ranked student (valedictorian) of the Advanced Program in Information Systems – Cohort 2024**, which reflects my strong academic foundation and commitment to excellence.
 
