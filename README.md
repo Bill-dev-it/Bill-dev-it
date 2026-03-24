@@ -16,6 +16,21 @@ I am currently developing projects that apply programming to real-world use case
 
 ---
 
+## GitHub Stats
+
+<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bill-dev-it&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Bill-dev-it's%20GitHub%20Adventurer%20Card" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bill-dev-it&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Languages%20I%E2%80%99ve%20worked%20with" height="150" alt="languages graph" />
+</div>
+
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Bill-dev-it/Bill-dev-it/output/snake-dark.svg" alt="Snake animation" />
+
+---
+
 ## Technical Skills
 
 ### Languages
@@ -41,21 +56,6 @@ Data Structures, Algorithms, System Design Fundamentals, Data Analysis.
 * Designing simple, maintainable architectures
 * Writing clean, structured, and readable code
 * Continuously improving problem-solving skills
-
----
-
-## GitHub Stats
-
-<br clear="both">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bill-dev-it&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Bill-dev-it's%20GitHub%20Adventurer%20Card" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bill-dev-it&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Languages%20I%E2%80%99ve%20worked%20with" height="150" alt="languages graph" />
-</div>
-
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Bill-dev-it/Bill-dev-it/output/snake.svg" alt="Snake animation" />
 
 ---
 
