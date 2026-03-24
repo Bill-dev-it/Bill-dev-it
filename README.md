@@ -44,7 +44,7 @@ Open to internship opportunities and collaborative projects.
 ## Technical Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,python,js,postgres&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,html,css,c++,python,js,postgres&theme=dark)](https://skillicons.dev)
 
 ### Technologies & Tools
 [![Tools](https://skillicons.dev/icons?i=git,fastapi,telegram,postgres&theme=dark)](https://skillicons.dev)
