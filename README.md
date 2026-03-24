@@ -41,22 +41,18 @@ Open to internship opportunities and collaborative projects.
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Languages
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💬 Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,js,postgres&theme=dark)](https://skillicons.dev)
 
-### Technologies & Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=white)
-![Database](https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ Technologies & Tools
+[![Tools](https://skillicons.dev/icons?i=git,fastapi,telegram,postgres&theme=dark)](https://skillicons.dev)
 
-**Core Concepts**
-Data Structures, Algorithms, System Design Fundamentals, Data Analysis.
+### 🧠 Core Concepts
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-6C3483?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-1A5276?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-117A65?style=for-the-badge)
 
 ---
 
