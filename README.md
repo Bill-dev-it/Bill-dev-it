@@ -44,7 +44,7 @@ Open to internship opportunities and collaborative projects.
 [![Languages](https://skillicons.dev/icons?i=java,html,css,cpp,python,js,postgres&theme=dark)](https://skillicons.dev)
 
 ### Technologies & Tools
-[![Tools](https://skillicons.dev/icons?i=git,fastapi,telegram,postgres&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,fastapi,docker,postgres&theme=dark)](https://skillicons.dev)
 
 ### Core Concepts
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-6C3483?style=for-the-badge)
