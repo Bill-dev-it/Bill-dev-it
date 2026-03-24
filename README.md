@@ -8,19 +8,16 @@ Focus: Backend Development, Data Systems, Applied AI
 
 👋 Hi there! I'm **Khoi Nguyen** — also known as **Bill Nguyen**.
 
-🎓 I'm an Information Systems student at the **University of Information Technology (UIT)**, admitted as the
+- I'm an Information Systems student at the **University of Information Technology (UIT)**, admitted as the
 **🏆 Valedictorian of the Advanced Program in Information Systems – Cohort 2024**.
 
-💻 I'm passionate about building **reliable backend systems** and **data-driven applications** —
+- I'm passionate about building **reliable backend systems** and **data-driven applications** —
 focusing on API development, system integration, and analytical tools.
-
-🚀 Currently, I'm working on projects that apply programming to real-world use cases,
-especially in **financial data analysis** and **automation**.
 
 ---
 
-## Contact:
-Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or [24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
+## Contact
+**Email**: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or [24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
 
 Open to internship opportunities and collaborative projects.
 
@@ -44,7 +41,7 @@ Open to internship opportunities and collaborative projects.
 ## Technical Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,html,css,c++,python,js,postgres&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,html,css,cpp,python,js,postgres&theme=dark)](https://skillicons.dev)
 
 ### Technologies & Tools
 [![Tools](https://skillicons.dev/icons?i=git,fastapi,telegram,postgres&theme=dark)](https://skillicons.dev)
