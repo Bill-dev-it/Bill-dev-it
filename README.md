@@ -1,5 +1,4 @@
 # Nguyen Khoi Nguyen
-
 **Information Systems Student | Aspiring Software Engineer**
 Focus: Backend Development, Data Systems, Applied AI
 
@@ -45,9 +44,23 @@ Data Structures, Algorithms, System Design Fundamentals, Data Analysis.
 
 ---
 
+## GitHub Stats
+
+<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bill-dev-it&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Bill-dev-it's%20GitHub%20Adventurer%20Card" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bill-dev-it&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Languages%20I%E2%80%99ve%20worked%20with" height="150" alt="languages graph" />
+</div>
+
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Bill-dev-it/Bill-dev-it/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## Contact
 
-Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or
-[24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
+Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or [24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
 
-Open to internship opportunities and collaborative projects
+Open to internship opportunities and collaborative projects.
