@@ -41,22 +41,22 @@ Open to internship opportunities and collaborative projects.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💬 Languages
+### Languages
 [![Languages](https://skillicons.dev/icons?i=java,python,js,postgres&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Technologies & Tools
+### Technologies & Tools
 [![Tools](https://skillicons.dev/icons?i=git,fastapi,telegram,postgres&theme=dark)](https://skillicons.dev)
 
-### 🧠 Core Concepts
+### Core Concepts
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-6C3483?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System_Design-1A5276?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-117A65?style=for-the-badge)
 
 ---
 
-<h2 align="center">🎉Nice to meet you</h2>
+## 🎉Nice to meet you
 
 ###
 
