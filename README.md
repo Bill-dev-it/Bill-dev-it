@@ -14,6 +14,10 @@ I am interested in building reliable backend systems and data-driven application
 
 I am currently developing projects that apply programming to real-world use cases, particularly in financial data analysis and automation.
 
+Contact:
+Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or [24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
+Open to internship opportunities and collaborative projects.
+
 ---
 
 ## GitHub Stats
@@ -59,8 +63,12 @@ Data Structures, Algorithms, System Design Fundamentals, Data Analysis.
 
 ---
 
-## Contact
+<h2 align="center">🎉Nice to meet you</h2>
 
-Email: [billbush0511@gmail.com](mailto:billbush0511@gmail.com) or [24521191@gm.uit.edu.vn](mailto:24521191@gm.uit.edu.vn)
+###
 
-Open to internship opportunities and collaborative projects.
+<div align="center">
+  <img src="https://count.ayaya.beauty/get/@Bill-dev-it?theme=rule34" alt="ayaya">
+</div>
+
+###
